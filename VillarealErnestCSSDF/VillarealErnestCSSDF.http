@@ -1,0 +1,6 @@
+@VillarealErnestCSSDF_HostAddress = http://localhost:5098
+
+GET {{VillarealErnestCSSDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
